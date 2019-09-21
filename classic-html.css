@@ -1,0 +1,35 @@
+#Isabels-Bio
+
+    header {
+    display: block;
+    }
+
+    .Box {
+    background-color: rgb(89, 202, 197);
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    }
+
+    h1 {
+    display: block;
+    font-size: 50px;
+    color:whitesmoke;
+    font-weight: bold;
+    position: center;
+    }
+
+    div {
+    background-color: whitesmoke;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    }
+
+    .Wrapper {
+        width: 100%;
+    }
+
+    .Box {
+    color: lightgray;
+    }
